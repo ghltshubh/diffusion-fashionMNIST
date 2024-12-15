@@ -1,6 +1,7 @@
 # diffusion-fashionMNIST
 
 Steps:
+
 0. Basics of autoencoders
 1. Unets
 2. Diffusion model
